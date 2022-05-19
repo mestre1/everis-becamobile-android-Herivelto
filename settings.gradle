@@ -1,0 +1,2 @@
+rootProject.name = "bugflix"
+include ':app'

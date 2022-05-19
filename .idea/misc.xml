@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/UFMS/Desktop/Nova pasta/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/layout/splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.106" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/drawable/details_card_background.xml" value="0.131" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/drawable/ic_bugflix_logo.xml" value="0.1" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/drawable/ic_jeraflix_official_logo.xml" value="0.106" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/drawable/ic_logo_jera_1.xml" value="0.106" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/drawable/ic_logo_ntt.xml" value="0.106" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/drawable/launch_background.xml" value="0.106" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/drawable/splashscree_background.xml" value="0.1" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/layout/details_movies_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/layout/splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/layout/toolbar.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/UFMS/Desktop/ntt/HERIVELTO---BECA-ANDROID-NTT-DATA---APP-FILMES/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/hjesusmo/Desktop/nttMovies/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/drawable/details_card_background.xml" value="0.1305" />
+        <entry key="..\:/Users/hjesusmo/Desktop/nttMovies/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hjesusmo/Desktop/nttMovies/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/layout/details_movies_fragment.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/hjesusmo/Desktop/nttMovies/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/layout/empty_error_fragment.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/hjesusmo/Desktop/nttMovies/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/layout/item_list_movies.xml" value="0.1" />
+        <entry key="..\:/Users/hjesusmo/Desktop/nttMovies/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/layout/item_search_movies.xml" value="0.1796875" />
+        <entry key="..\:/Users/hjesusmo/Desktop/nttMovies/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/layout/list_movies_fragment.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/hjesusmo/Desktop/nttMovies/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/layout/movies_load_state_footer_view_item.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/hjesusmo/Desktop/nttMovies/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/layout/search_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/hjesusmo/Desktop/nttMovies/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/layout/splash_screen.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/hjesusmo/Desktop/nttMovies/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/HERIVELTO-BECA-ANDROID-NTT-DATA-APP-FILMES/app/src/main/res/layout/toolbar.xml" value="0.14130434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
